@@ -1,4 +1,5 @@
 name: Tests
+# Uploads the coverage report so reviewers can inspect it without rerunning tests.
 
 on:
   push:
